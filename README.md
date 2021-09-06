@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](https://user-images.githubusercontent.com/85640472/132215610-dcfa6226-2a6e-4ad1-96f1-075542503d38.png)
+]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://sakssingh.github.io/Summary-card-Challenge/](https://sakssingh.github.io/Summary-card-Challenge/)
 
 ## My process
 
@@ -39,4 +39,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@sakssingh](https://www.frontendmentor.io/profile/sakssingh)
